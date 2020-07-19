@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Coffe Shop Store
+
+This is sample coffe shop, at this moment in progress. This is for practice purposes.
+
+![image](https://user-images.githubusercontent.com/22660678/87866352-129f7800-c957-11ea-9ea1-0596ff36972c.png)
 
 ## Available Scripts
 
