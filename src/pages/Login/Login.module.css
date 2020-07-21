@@ -34,7 +34,7 @@ h1{
     width: 100%;
     margin-bottom: 20px;
 }
-.container input[type="text"], input[type="password"]
+.container input[type="text"], input[type="password"], input[type="email"]
 {
     border: none;
     border-bottom: 1px solid #fff;
